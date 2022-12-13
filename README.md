@@ -1,6 +1,6 @@
 # codedamn - Multiverse Photo Gallery Project
 
-https://oscarrobertrodriguez.github.io/multiverse-photo-gallery/
+[live link](https://oscarrobertrodriguez.github.io/multiverse-photo-gallery/)
 
 ![Design for the project](./assets/desktop-design-non-fs.jpg)
 
